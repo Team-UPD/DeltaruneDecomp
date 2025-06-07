@@ -40,3 +40,6 @@ Bluesky: ``shatterstar9652``
 ## FAQ
 - Q: Why aren't Chapter 3 & 4 Uploaded?
 - A: We are personally waiting 2 weeks after the release of Ch3 and Ch4 for the purpose of not spoiling the game.
+ 
+- Q: Why do Chapters 1 and 2 have assets (audio, images, etc.) but not Chapters past 1 and 2?
+- A: Chapters 1 and 2 are both free via the demo, whilist chapters 3 and 4 cost money. We do not condone piracy.
