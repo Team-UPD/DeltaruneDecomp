@@ -1,0 +1,1 @@
+room_goto(PLACE_CHAPTER_SELECT_2x);
