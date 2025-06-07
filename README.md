@@ -38,11 +38,5 @@ Bluesky: ``shatterstar9652``
 
 
 ## FAQ
-
-## PR Helpers
-[Zyle](https://zyle.dev/)<br>
-[Marioalexsan](https://github.com/Marioalexsan)<br>
-[EphraimBane](https://github.com/EphraimBane)<br>
-[Nyako](https://github.com/NyakoFox)<br>
-[Sadie](https://github.com/zulc22)<br>
-[AveryMadness](https://github.com/AveryMadness)
+- Q: Why aren't Chapter 3 & 4 Uploaded?
+- A: We are personally waiting 2 weeks after the release of Ch3 and Ch4 for the purpose of not spoiling the game.
