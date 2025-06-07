@@ -1,0 +1,3 @@
+function ossafe_init()
+{
+}

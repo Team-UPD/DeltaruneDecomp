@@ -1,0 +1,11 @@
+visible = 0;
+type = choose(0, 1, 2, 3);
+y = -80;
+image_xscale = 2;
+image_yscale = 2;
+con = 0;
+timer = 0;
+image_speed = 0;
+vspeed = 10;
+maxtimer = 20 + random(16);
+explodedraw = 0;

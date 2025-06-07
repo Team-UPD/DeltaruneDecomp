@@ -1,0 +1,59 @@
+{
+  "spriteId": {
+    "name": "spr_joker_scythebody",
+    "path": "sprites/spr_joker_scythebody/spr_joker_scythebody.yy"
+  },
+  "solid": false,
+  "visible": true,
+  "managed": true,
+  "spriteMaskId": {
+    "name": "spr_joker_scythebody_mask",
+    "path": "sprites/spr_joker_scythebody_mask/spr_joker_scythebody_mask.yy"
+  },
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_regularbullet_permanent",
+    "path": "objects/obj_regularbullet_permanent/obj_regularbullet_permanent.yy"
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 0,
+  "physicsGroup": 0,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [],
+  "eventList": [
+    {
+      "isDnD": false,
+      "eventNum": 0,
+      "eventType": 0,
+      "collisionObjectId": null,
+      "resourceType": "GMEvent",
+      "resourceVersion": "1.0",
+      "name": ""
+    },
+    {
+      "isDnD": false,
+      "eventNum": 0,
+      "eventType": 3,
+      "collisionObjectId": null,
+      "resourceType": "GMEvent",
+      "resourceVersion": "1.0",
+      "name": ""
+    }
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_centerscythe",
+  "parent": {
+    "name": "Objects",
+    "path": "folders/Objects.yy"
+  }
+}

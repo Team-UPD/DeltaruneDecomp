@@ -1,0 +1,11 @@
+con = 0;
+movecon = 0;
+movetimer = 0;
+timer = 0;
+image_speed = 0;
+image_index = 0;
+image_xscale = 2;
+image_yscale = 2;
+movesiner = 0;
+movefactor = 0;
+type = 0;

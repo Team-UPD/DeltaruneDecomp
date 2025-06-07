@@ -1,0 +1,15 @@
+damage = 0;
+grazepoints = 0;
+grazed = 0;
+timepoints = 0;
+active = 0;
+image_alpha = 0;
+init = 0;
+tracking = 1;
+timer = 0;
+con = 0;
+side = 0;
+fade = 0;
+locked = 0;
+ltimer = 0;
+joker = 0;

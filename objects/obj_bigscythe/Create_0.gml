@@ -1,0 +1,17 @@
+anglespeed = -8;
+siner = 0;
+difficulty = 1;
+times = 0;
+activetimer = 0;
+grazed = 0;
+grazepoints = 10;
+timepoints = 10;
+target = 0;
+inv = 120;
+damage = 124;
+active = 1;
+image_xscale = 2;
+image_yscale = 2;
+image_alpha = 0;
+type = 0;
+grazetimer = 0;

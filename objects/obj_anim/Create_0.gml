@@ -1,0 +1,10 @@
+target = 888888888;
+targetsprite = 9999999;
+image_speed = 0;
+image_index = 0;
+done = 0;
+active = 0;
+timer = 0;
+frame = 0;
+framespeed = 0;
+maxframe = 0;

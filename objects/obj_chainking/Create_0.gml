@@ -1,0 +1,16 @@
+kingcon = 0;
+contimer = 0;
+image_speed = 0.334;
+image_xscale = 2;
+image_yscale = 2;
+t = 0;
+tmax = 180;
+subtype = 0;
+type = 1;
+inv = 60;
+timepoints = 0;
+grazepoints = 3;
+target = 0;
+damage = 50;
+grazed = 0;
+grazetimer = 0;

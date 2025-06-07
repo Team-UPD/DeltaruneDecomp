@@ -1,0 +1,14 @@
+siner = 0;
+radius = 160;
+dir = 0;
+norot = 0;
+actual = 1;
+thisx = obj_heart.x;
+thisy = obj_heart.y;
+made = 0;
+damage = 100;
+active = 1;
+type = 0;
+maxradius = 80;
+movespeed = 0.5;
+radcon = 0;

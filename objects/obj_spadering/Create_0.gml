@@ -1,0 +1,11 @@
+ringno = 0;
+maxspade = 8;
+t = 0;
+con = 0;
+startspade = 0;
+spadet = 0;
+startang = random(360);
+grav = 0.2;
+size = 1;
+special = 0;
+side = 0;

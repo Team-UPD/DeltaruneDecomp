@@ -1,0 +1,11 @@
+image_xscale = 0;
+image_yscale = 0;
+image_alpha = 0.3;
+timer = 0;
+maxtimer = 15;
+growcon = 1;
+fullgrow = 0;
+keep = 0;
+megakeep = 0;
+image_speed = 0;
+image_blend = merge_color(c_green, c_lime, 0.5);
