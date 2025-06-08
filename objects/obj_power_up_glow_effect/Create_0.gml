@@ -1,0 +1,13 @@
+xrate = random_range(0.05, 0.075);
+yrate = 0.125 - xrate;
+fade = 0.1;
+reverse = 0;
+maxalpha = 1;
+pivotx = -999;
+pivoty = -999;
+scale = 1;
+init = 0;
+use_pivot = false;
+follow_target = -4;
+startscalex = 0;
+startscaley = 0;

@@ -1,0 +1,14 @@
+siner = 0;
+linesiner = 0;
+init = 0;
+room_scale = room_width / 20;
+bg_y_pos = 0;
+bg_x_pos = 0;
+depth = 1005100;
+sky_blue = merge_color(c_navy, c_black, 0.5);
+sky_blue_dark = merge_color(c_navy, c_black, 0.7);
+sprite_init = false;
+ground_height = 0;
+sky_height = 0;
+starry_sky_height = 0;
+stars_height = 0;

@@ -1,0 +1,1 @@
+destroyonhit = 0;

@@ -1,0 +1,10 @@
+con = 0;
+init = 0;
+drawground = 0;
+siner = 0;
+snd_free_all();
+depth = -100;
+xx = camerax();
+yy = cameray();
+cx = camerax() + 320;
+cy = cameray() + 240;

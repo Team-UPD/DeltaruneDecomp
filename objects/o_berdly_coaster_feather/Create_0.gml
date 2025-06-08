@@ -1,0 +1,12 @@
+timer = 0;
+con = 0;
+image_xscale = choose(-2, 2);
+image_yscale = 2;
+image_index = irandom(1);
+image_speed = 0;
+direction = 0;
+speed = random_range(2, 3);
+image_angle = random(360);
+rot = random_range(-5, 5);
+life = irandom_range(30, 60);
+lifeD = life;

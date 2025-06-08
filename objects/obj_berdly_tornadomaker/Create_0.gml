@@ -1,0 +1,10 @@
+timer = 0;
+image_speed = 0;
+image_xscale = 2;
+image_yscale = 2;
+con = 0;
+difficulty = 1;
+tornadocount = 5;
+lerpintimer = 0;
+y -= 200;
+sprite_index = spr_berdlyattack_queen;

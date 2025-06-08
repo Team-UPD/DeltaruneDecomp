@@ -1,0 +1,11 @@
+mcon = 0;
+image_xscale = 2;
+image_yscale = 2;
+image_speed = 0.16666666666666666;
+image_index = obj_mauswheel_enemy.image_index;
+mousecount = 50;
+maxmousecount = 50;
+captured = 0;
+draw_in_timer = 0;
+alarm[0] = 10;
+mercycount = 0;

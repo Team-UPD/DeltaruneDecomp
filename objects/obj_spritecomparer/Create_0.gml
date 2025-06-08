@@ -1,0 +1,12 @@
+sprite[0] = spr_krisd_dark;
+sprite[1] = spr_whitepixel;
+sprite[2] = spr_whitepixel;
+mysprite[0] = sprite_duplicate(sprite[0]);
+mysprite[1] = sprite_duplicate(sprite[1]);
+mysprite[2] = sprite_duplicate(sprite[2]);
+image_xscale = 2;
+image_yscale = 2;
+image_speed = 0;
+hitbox_mode = 0;
+movetimer = 6;
+s = 0;

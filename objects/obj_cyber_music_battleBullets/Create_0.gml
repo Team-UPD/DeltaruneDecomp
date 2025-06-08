@@ -1,0 +1,12 @@
+timer = 0;
+trackpos = 0;
+sndinit = 0;
+sndlength = 0;
+cooldown = 0.5;
+active = 0;
+con = 0;
+seq = 0;
+modifier = 0;
+musLoad = -4;
+musSeq = -4;
+safetime = 0;

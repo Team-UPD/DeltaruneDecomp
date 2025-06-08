@@ -1,0 +1,12 @@
+image_xscale = 2;
+image_yscale = 2;
+start_angle = 90;
+end_angle = 410;
+timer = 0;
+beam_power = 0;
+trailstart = 0;
+trailend = 0;
+explosioncount = 0;
+test_mode = 0;
+noelle_x = 0;
+laser_surface = -2;

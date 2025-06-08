@@ -1,0 +1,14 @@
+mytimer = 0;
+myinteract = 0;
+image_speed = 0;
+timer = 0;
+mousecreate = 0;
+scr_depth();
+rotate = false;
+goalHit = 0;
+controlled = obj_rotationTile_track1;
+light = 0;
+left = false;
+right = false;
+down = false;
+buffer = 3;

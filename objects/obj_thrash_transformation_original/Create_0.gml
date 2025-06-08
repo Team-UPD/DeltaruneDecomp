@@ -1,0 +1,13 @@
+f = 2;
+timer = 0;
+state = 0;
+xscale2 = 2;
+yscale2 = 2;
+image_xscale = 2;
+image_yscale = 2;
+fade_alpha = 0;
+heady = y + 5;
+head_xscale = 2;
+head_yscale = 2;
+head_angle = 20;
+depth = -3;

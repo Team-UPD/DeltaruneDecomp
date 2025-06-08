@@ -1,0 +1,14 @@
+blocked = 0;
+myinteract = 0;
+image_speed = 0;
+timer = 0;
+mousecreate = 0;
+scr_depth();
+rotate = false;
+left = false;
+right = false;
+down = false;
+controlled = obj_sneo_friedpipis;
+inUse = false;
+instructionLerp = 0;
+inusecount = 0;

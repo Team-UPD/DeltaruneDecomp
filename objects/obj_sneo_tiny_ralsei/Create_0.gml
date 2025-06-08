@@ -1,0 +1,15 @@
+timer = 0;
+con = 0;
+hpmax = 30;
+hp = hpmax;
+active = 1;
+destroytimer = 0;
+frametype = 0;
+myspeed = 6;
+length = 27;
+place = 0;
+xhold = 0;
+image_index = 12;
+image_xscale = 1;
+image_yscale = 1;
+image_speed = 0;

@@ -1,0 +1,14 @@
+boxTop = obj_growtangle.y - 71;
+boxLeft = obj_growtangle.x - 71;
+nexty = y;
+driveSpeed = 6;
+carhit = 0;
+hitcheck = 0;
+lastLeftCarSpeed = 99;
+lastRightCarSpeed = 99;
+leftcar = 0;
+rightcar = 0;
+lastSide = 0;
+anti_cheese = 0;
+heart_xstart = obj_heart.x;
+cheese_timer = 0;

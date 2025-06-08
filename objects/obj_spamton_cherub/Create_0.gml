@@ -1,0 +1,14 @@
+timer = 0;
+x += 200;
+y -= 150;
+xspawn = x;
+yspawn = y;
+offset = random(2 * pi);
+healer = false;
+heal_state = 0;
+image_xscale = 2;
+image_yscale = 2;
+image_speed = 0.5;
+xoff = -cos(8 + offset) * 20;
+yoff = -sin(8 + offset) * 20;
+target = 0;

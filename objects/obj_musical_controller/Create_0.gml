@@ -1,0 +1,12 @@
+turnspassed = 0;
+scon = 0;
+milktimer = 0;
+whohealed = 0;
+a = 0;
+c = 0;
+rr = 0;
+theystoppeddancing = 0;
+skiptext = 0;
+happyfeetscene = 0;
+d = 0;
+ralseiportrait = 0;

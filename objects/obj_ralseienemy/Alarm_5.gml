@@ -1,0 +1,1 @@
+attackcon += 1;

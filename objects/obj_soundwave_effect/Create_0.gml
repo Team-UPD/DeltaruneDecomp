@@ -1,0 +1,10 @@
+maxradius = 40;
+minradius = 0;
+growtime = 30;
+color = c_gray;
+timer = 0;
+fadetime = 0;
+easepower = 2;
+startwidth = 4;
+endwidth = 2;
+init = 0;

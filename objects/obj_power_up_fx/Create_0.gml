@@ -1,0 +1,17 @@
+intensity = 2;
+timer = -30;
+effectPause = 15;
+poweruptime = 90;
+parent = -4;
+effecttimer = 0;
+init = 0;
+pivotx = -999;
+pivoty = -999;
+flashtimer = 0;
+flashspeed = 30;
+ring_surf = -1;
+ring_timer = 0;
+doflash = false;
+flashSprite = 0;
+flashState = 0;
+use_pivot = false;

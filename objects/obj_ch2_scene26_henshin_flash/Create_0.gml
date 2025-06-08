@@ -1,0 +1,15 @@
+con = 0;
+orb_size = 0;
+orb_sin = 0;
+siner = 0;
+beam_dir[0] = 45;
+beam_dir[1] = 120;
+beam_dir[2] = 220;
+beam_dir[3] = 300;
+beam_rot[0] = 1;
+beam_rot[1] = 0.55;
+beam_rot[2] = -0.8;
+beam_rot[3] = -0.6;
+beam_speed = 20;
+beam_size = 0;
+beam_timer = 0;

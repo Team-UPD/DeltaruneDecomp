@@ -1,0 +1,15 @@
+sy = 0;
+depth = 1000020;
+auto = 0;
+autoamount = 0;
+squarecount = room_height * 2;
+big = spr_teacupParallaxer_big;
+mid = spr_teacupParallaxer_mid;
+smol = spr_teacupParallaxer_smol;
+modifier = 0;
+myy = 0;
+init = 0;
+remcameray = cameray();
+bigheight = sprite_get_height(big);
+midheight = sprite_get_height(mid);
+smallheight = sprite_get_height(smol);

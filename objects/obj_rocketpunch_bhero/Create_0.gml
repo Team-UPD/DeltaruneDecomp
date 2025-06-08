@@ -1,0 +1,16 @@
+image_xscale = 3;
+image_yscale = 3;
+con = 0;
+vspeed = -2;
+friction = -2;
+depth = o_boxingcontroller.depth;
+image_index = 0;
+drawwhite = 0;
+image_speed = 0;
+split = 0;
+splitfriction = 0.01;
+splittimer = 0;
+splity = 0;
+headsprite = o_boxingcontroller.headsprite;
+headcolor = make_color_hsv(global.flag[223] * 8, 255, 255);
+glow = 0;

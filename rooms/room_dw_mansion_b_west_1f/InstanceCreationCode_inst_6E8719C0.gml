@@ -1,0 +1,1 @@
+showArea = 0;

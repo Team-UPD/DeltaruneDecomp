@@ -1,0 +1,9 @@
+con = 0;
+timer = 0;
+initialize = 0;
+tornadocon = 0;
+floatcon = 1;
+siner = 0;
+shakeamount = 2;
+elecsiner = 0;
+circlesize = 0;

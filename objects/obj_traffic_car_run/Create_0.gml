@@ -1,0 +1,16 @@
+hitted = 0;
+rottimer = 0;
+image_xscale = 2;
+image_yscale = 2;
+sprite_index = spr_caradventure_car_foe;
+image_index = 1;
+audio_play_sound(snd_bigcar_yelp, 0, 0);
+dir = 0;
+image_angle += 90;
+image_speed = 0;
+image_index = 1;
+hitted = 1;
+init = 0;
+vspeed = -12;
+gravity_direction = 180;
+gravity = 0.5;

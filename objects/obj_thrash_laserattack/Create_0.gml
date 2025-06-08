@@ -1,0 +1,11 @@
+thrash = obj_rouxls_enemy.thrash;
+thrash.headangle = 0;
+lastattack = irandom(2);
+attackangle = (lastattack * 90) + 90;
+headangle = 180;
+lastangle = 180;
+btimer = 0;
+damage = -1;
+target = -1;
+difficulty = 0;
+grazepoints = 4;

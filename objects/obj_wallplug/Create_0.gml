@@ -1,0 +1,15 @@
+destroyoffscreen = false;
+tolerance = 0;
+depth = 5000;
+image_speed = 0;
+con = 0;
+timer = 0;
+image_xscale = 2;
+image_yscale = 2;
+eggtimer = 0;
+eggcon = 0;
+basex = x;
+basey = y;
+target = 3;
+damage = 20;
+active = 1;

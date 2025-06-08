@@ -1,0 +1,10 @@
+noelleScared = 0;
+victory = 0;
+con = 0;
+victoryCelebrated = 0;
+timer = 0;
+newnoelle = 0;
+desx = 0;
+desy = 0;
+scaredAgain = 99;
+scaredAgainCount = 0;

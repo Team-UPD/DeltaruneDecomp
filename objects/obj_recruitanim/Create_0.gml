@@ -1,0 +1,10 @@
+sprite_index = scr_84_get_sprite("spr_battlemsg");
+image_index = 6;
+lerptimer = 0;
+image_xscale = 4;
+image_yscale = 0;
+depth = -5;
+timer = 0;
+image_speed = 0;
+firstnumber = 1;
+secondnumber = 1;

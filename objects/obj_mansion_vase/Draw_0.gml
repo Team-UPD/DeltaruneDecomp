@@ -1,0 +1,14 @@
+gpu_set_blendenable(false);
+gpu_set_colorwriteenable(false, false, false, true);
+draw_set_alpha(0);
+draw_rectangle(x, y_mask_pos, x + (sprite_get_width(sprite_index) * 2), y_mask_pos + (sprite_get_height(sprite_index) * 2), false);
+draw_set_alpha(1);
+gpu_set_blendenable(true);
+gpu_set_colorwriteenable(true, true, true, true);
+gpu_set_blendmode_ext(7, bm_inv_dest_alpha);
+gpu_set_alphatestenable(true);
+draw_self();
+gpu_set_alphatestenable(false);
+gpu_set_blendmode(bm_normal);
+siner += 0.075;
+y = ystart + (sin(siner / 3) * 10);

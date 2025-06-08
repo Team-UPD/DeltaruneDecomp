@@ -1,0 +1,1 @@
+laserflash = 0;

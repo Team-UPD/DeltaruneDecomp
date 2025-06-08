@@ -1,0 +1,11 @@
+alarm[0] = 6 + irandom(12);
+dir = irandom(359);
+len = 240;
+frag = 4;
+actor = obj_thrash_zap_controller;
+dis = 460;
+actor = -1;
+image_yscale = 0.5 + random(0.75);
+image_index = irandom(11);
+image_blend = c_aqua;
+tint = 8388736;

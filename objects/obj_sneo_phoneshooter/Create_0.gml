@@ -1,0 +1,13 @@
+event_inherited();
+y = -30;
+ydrop = 0;
+image_blend = #00A2E8;
+btimer = 0;
+state = 0;
+flash = 0;
+siner = 0;
+destroyable = 1;
+image_index = 2;
+image_speed = 0;
+hp = 3;
+swingdir = 1;

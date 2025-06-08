@@ -1,0 +1,10 @@
+image_xscale = 1.6;
+image_yscale = 1.6;
+speed = 4;
+friction = 0.2;
+gravity_direction = 90;
+gravity = 0.2;
+image_speed = 0;
+image_angle = -50 + random(50);
+timer = 0;
+h_speed = 0;

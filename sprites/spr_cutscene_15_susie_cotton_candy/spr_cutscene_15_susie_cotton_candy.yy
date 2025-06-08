@@ -1,0 +1,216 @@
+{
+  "bboxMode": 0,
+  "collisionKind": 1,
+  "type": 0,
+  "origin": 0,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 0,
+  "bbox_right": 30,
+  "bbox_top": 0,
+  "bbox_bottom": 45,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "DynamicTexturePage": false,
+  "width": 36,
+  "height": 49,
+  "textureGroupId": {
+    "name": "default",
+    "path": "texturegroups/default"
+  },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {
+      "resourceType": "GMSpriteFrame",
+      "resourceVersion": "1.1",
+      "name": "2c5448d3-6e36-4388-9600-4b367071e02c"
+    },
+    {
+      "resourceType": "GMSpriteFrame",
+      "resourceVersion": "1.1",
+      "name": "9e7b8dcd-5800-4ba1-ab74-afaff0aa9415"
+    },
+    {
+      "resourceType": "GMSpriteFrame",
+      "resourceVersion": "1.1",
+      "name": "4d41e969-b206-4b61-be54-b2b4be75ea7a"
+    },
+    {
+      "resourceType": "GMSpriteFrame",
+      "resourceVersion": "1.1",
+      "name": "1a1579da-4929-46a8-990d-91bafc8e2c7a"
+    }
+  ],
+  "sequence": {
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 1,
+    "playbackSpeedType": 1,
+    "autoRecord": true,
+    "volume": 1,
+    "length": 4,
+    "events": {
+      "resourceType": "KeyframeStore<MessageEventKeyframe>",
+      "Keyframes": [],
+      "resourceVersion": "1.0"
+    },
+    "moments": {
+      "resourceType": "KeyframeStore<MomentsEventKeyframe>",
+      "Keyframes": [],
+      "resourceVersion": "1.0"
+    },
+    "tracks": [
+      {
+        "spriteId": null,
+        "keyframes": {
+          "resourceType": "KeyframeStore<SpriteFrameKeyframe>",
+          "Keyframes": [
+            {
+              "id": "f45cfac1-d7ec-4b63-b93e-c09fba2f8eab",
+              "Key": 0,
+              "Length": 1,
+              "resourceType": "Keyframe<SpriteFrameKeyframe>",
+              "Stretch": false,
+              "Disabled": false,
+              "IsCreationKey": false,
+              "Channels": {
+                "0": {
+                  "Id": {
+                    "name": "2c5448d3-6e36-4388-9600-4b367071e02c",
+                    "path": "sprites/spr_cutscene_15_susie_cotton_candy/spr_cutscene_15_susie_cotton_candy.yy"
+                  },
+                  "resourceType": "SpriteFrameKeyframe",
+                  "resourceVersion": "1.0",
+                  "name": ""
+                }
+              },
+              "resourceVersion": "1.0"
+            },
+            {
+              "id": "90647ad1-d92f-412e-bdf5-4b2c4d0bfda3",
+              "Key": 1,
+              "Length": 1,
+              "resourceType": "Keyframe<SpriteFrameKeyframe>",
+              "Stretch": false,
+              "Disabled": false,
+              "IsCreationKey": false,
+              "Channels": {
+                "0": {
+                  "Id": {
+                    "name": "9e7b8dcd-5800-4ba1-ab74-afaff0aa9415",
+                    "path": "sprites/spr_cutscene_15_susie_cotton_candy/spr_cutscene_15_susie_cotton_candy.yy"
+                  },
+                  "resourceType": "SpriteFrameKeyframe",
+                  "resourceVersion": "1.0",
+                  "name": ""
+                }
+              },
+              "resourceVersion": "1.0"
+            },
+            {
+              "id": "7400a658-5101-467a-9207-4e83884f6a9a",
+              "Key": 2,
+              "Length": 1,
+              "resourceType": "Keyframe<SpriteFrameKeyframe>",
+              "Stretch": false,
+              "Disabled": false,
+              "IsCreationKey": false,
+              "Channels": {
+                "0": {
+                  "Id": {
+                    "name": "4d41e969-b206-4b61-be54-b2b4be75ea7a",
+                    "path": "sprites/spr_cutscene_15_susie_cotton_candy/spr_cutscene_15_susie_cotton_candy.yy"
+                  },
+                  "resourceType": "SpriteFrameKeyframe",
+                  "resourceVersion": "1.0",
+                  "name": ""
+                }
+              },
+              "resourceVersion": "1.0"
+            },
+            {
+              "id": "d155f639-ed1f-44a3-b750-68c505afa6f8",
+              "Key": 3,
+              "Length": 1,
+              "resourceType": "Keyframe<SpriteFrameKeyframe>",
+              "Stretch": false,
+              "Disabled": false,
+              "IsCreationKey": false,
+              "Channels": {
+                "0": {
+                  "Id": {
+                    "name": "1a1579da-4929-46a8-990d-91bafc8e2c7a",
+                    "path": "sprites/spr_cutscene_15_susie_cotton_candy/spr_cutscene_15_susie_cotton_candy.yy"
+                  },
+                  "resourceType": "SpriteFrameKeyframe",
+                  "resourceVersion": "1.0",
+                  "name": ""
+                }
+              },
+              "resourceVersion": "1.0"
+            }
+          ],
+          "resourceVersion": "1.0"
+        },
+        "name": "frames",
+        "trackColour": 0,
+        "inheritsTrackColour": true,
+        "builtinName": -1,
+        "traits": 0,
+        "interpolation": 1,
+        "tracks": [],
+        "events": [],
+        "isCreationTrack": false,
+        "modifiers": [],
+        "resourceType": "GMSpriteFramesTrack",
+        "resourceVersion": "1.0"
+      }
+    ],
+    "visibleRange": null,
+    "lockOrigin": false,
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "backdropImagePath": "",
+    "backdropImageOpacity": 0.5,
+    "backdropWidth": 1366,
+    "backdropHeight": 768,
+    "backdropXOffset": 0,
+    "backdropYOffset": 0,
+    "xorigin": 0,
+    "yorigin": 0,
+    "eventToFunction": {},
+    "eventStubScript": null,
+    "spriteId": {
+      "name": "spr_cutscene_15_susie_cotton_candy",
+      "path": "sprites/spr_cutscene_15_susie_cotton_candy/spr_cutscene_15_susie_cotton_candy.yy"
+    },
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_cutscene_15_susie_cotton_candy"
+  },
+  "layers": [
+    {
+      "visible": true,
+      "isLocked": false,
+      "blendMode": 0,
+      "opacity": 100,
+      "displayName": "default",
+      "resourceType": "GMImageLayer",
+      "resourceVersion": "1.0",
+      "name": "2806e9a5-0ad1-426e-8a68-0f228dca8a63"
+    }
+  ],
+  "nineSlice": null,
+  "parent": {
+    "name": "Sprites",
+    "path": "folders/Sprites.yy"
+  },
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_cutscene_15_susie_cotton_candy"
+}

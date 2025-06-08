@@ -1,0 +1,13 @@
+scr_bullet_init();
+startcolor = c_red;
+colorlerp = 0;
+init = 0;
+platter_spawn = false;
+target_speed = 0;
+image_alpha = 0;
+speed = 4;
+angle_offset = 0;
+spawntimer = 0;
+fixed_angle = false;
+target_angle = 0;
+type = 0;

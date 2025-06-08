@@ -1,0 +1,15 @@
+init = false;
+x_pos = x;
+y_pos = y;
+x_scale = 2;
+y_scale = 2;
+color = c_white;
+alpha = 1;
+width = -1;
+height = -1;
+x_end = -1;
+y_end = -1;
+x_speed = 0;
+y_speed = 0;
+room_wide = false;
+loop_vertical = false;

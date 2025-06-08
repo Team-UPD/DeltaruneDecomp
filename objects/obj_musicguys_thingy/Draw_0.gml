@@ -1,0 +1,10 @@
+draw_set_color(c_red);
+draw_text(20, 20, bullet_frame[bulletcount]);
+draw_text(20, 40, bullet_pos[bulletcount]);
+draw_text(20, 60, bullet_height[bulletcount]);
+draw_text(70, 20, bullet_frame[1]);
+draw_text(70, 40, bullet_pos[1]);
+draw_text(70, 60, bullet_height[1]);
+draw_text(150, 20, bullet_frame[2]);
+draw_text(150, 40, bullet_pos[2]);
+draw_text(150, 60, bullet_height[2]);

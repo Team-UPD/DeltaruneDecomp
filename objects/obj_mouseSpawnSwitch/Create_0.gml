@@ -1,0 +1,16 @@
+image_speed = 0;
+image_index = 0;
+pressed = 0;
+depth = 980000;
+timer = 0;
+attempt = 0;
+introCon = -1;
+introconTimer = 0;
+introFinished = 0;
+leaveTrigger = 365;
+leaveAttempt = 0;
+leaveUpAttempt = 0;
+earlywin = 0;
+noelleFacing = 0;
+tIntroCon = 0;
+backeddown = 0;

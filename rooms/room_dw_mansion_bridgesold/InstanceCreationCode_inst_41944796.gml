@@ -1,0 +1,11 @@
+myencounter = 53;
+sprite_index = spr_werewire_hang_overworld;
+touchsprite = spr_werewire_hang_overworld;
+radius = 200;
+pacetype = 14;
+chasetype = 4;
+alertskip = 0;
+ignoresolid = 1;
+rotation = 0;
+distance = 50;
+spd = 4;

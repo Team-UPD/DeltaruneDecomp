@@ -1,0 +1,14 @@
+con = -1;
+sinerx = 0;
+sinery = 0;
+siner0 = 0;
+siner_add0 = 0.1;
+siner_amplitude0 = 0;
+siner_direction0 = 0;
+siner1 = 0;
+siner_add1 = 0.1;
+siner_amplitude1 = 5;
+siner_direction1 = 90;
+image_speed = 0.25;
+shakecon = 0;
+shake_loop = false;

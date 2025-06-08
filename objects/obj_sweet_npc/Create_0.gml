@@ -1,0 +1,14 @@
+image_speed = 0.16666666666666666;
+image_xscale = 2;
+image_yscale = 2;
+thissprite = spr_sweet_idle;
+state = 0;
+flash = 0;
+fsiner = 0;
+state = 0;
+siner = 0;
+dancing = false;
+musicalnotetimer = 0;
+dancetimer = 0;
+dance_index = 0;
+updatetimer = 0;

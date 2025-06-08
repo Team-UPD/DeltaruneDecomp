@@ -1,0 +1,1 @@
+lastmarker = -1;

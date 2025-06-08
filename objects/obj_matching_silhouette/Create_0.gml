@@ -1,0 +1,12 @@
+target_char = obj_mainchara;
+copy_sprite = false;
+lsprite = spr_krisl;
+rsprite = spr_krisr;
+dsprite = spr_krisd;
+usprite = spr_krisu;
+init = 0;
+color = #00A2E8;
+image_speed = 0;
+second_char = -4;
+second_sprite = -4;
+outline = false;

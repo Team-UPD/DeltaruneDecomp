@@ -1,0 +1,16 @@
+timer = 0;
+timer2 = 0;
+bulletcount = 0;
+bulletcount2 = 0;
+con = 0;
+siner = 0;
+image_yscale = 0;
+image_xscale = 0;
+scale = 0;
+blowing = 0;
+image_speed = 0;
+blowstate = 0;
+original_image_speed = -1;
+place1 = 270;
+place2 = 270;
+difficulty = 0;

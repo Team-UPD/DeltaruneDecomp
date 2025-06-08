@@ -1,0 +1,14 @@
+f = 2;
+radA = 0;
+radStart = 150;
+radEnd = 0;
+radCurrent = radStart;
+radLast = radCurrent;
+lineA = 0;
+width = 10;
+widthC = 0;
+quality = 24;
+color = make_colour_rgb(255, 255, 255);
+alpha = random_range(0.3, 0.7);
+alphaprev = 0;
+depth = o_boxingqueen.depth - 4;

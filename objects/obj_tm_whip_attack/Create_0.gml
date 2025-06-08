@@ -1,0 +1,14 @@
+state = 0;
+creator = 0;
+animConst = 9.42477796076938;
+timer = animConst * 2;
+attacktimer = 0;
+truetimer = 0;
+damage = 0;
+target = 0;
+animSpeed = 1;
+difficulty = 0;
+zaptime = 10;
+animator = instance_create(x, y, obj_tm_whip_animation);
+quizmode = false;
+init = 0;

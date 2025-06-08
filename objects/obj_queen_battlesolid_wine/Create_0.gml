@@ -1,0 +1,11 @@
+alpha2 = 1;
+nofill = 0;
+fill_yscale = 1;
+fill_yscale_gradual = 1;
+depth = obj_queen_enemy.depth - 1;
+image_speed = 0;
+image_xscale = 0.4;
+image_yscale = 0.6;
+wine_bottom_xscale = 0.4;
+wine_bottom_yscale = 0.6;
+wine_bottom_yoffset = 0;

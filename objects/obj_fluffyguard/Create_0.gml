@@ -1,0 +1,13 @@
+timer = 0;
+con = 0;
+hpmax = 100;
+hp = hpmax;
+active = 1;
+destroytimer = 0;
+frametype = 0;
+sprite_index = spr_queen_winebubble_edit2;
+image_xscale = 2;
+image_yscale = 2;
+image_speed = 1;
+x = -9999;
+y = -9999;

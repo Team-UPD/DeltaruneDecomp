@@ -1,0 +1,9 @@
+image_index = 1;
+image_speed = 0;
+image_angle = obj_queen_wineglass.image_angle;
+image_xscale = obj_queen_wineglass.image_xscale;
+image_yscale = obj_queen_wineglass.image_yscale;
+x = obj_queen_wineglass.x;
+y = obj_queen_wineglass.y;
+visible = false;
+depth = obj_growtangle.depth + 2;

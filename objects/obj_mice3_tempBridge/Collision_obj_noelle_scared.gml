@@ -1,0 +1,1 @@
+activeDecay = 1;

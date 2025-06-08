@@ -1,0 +1,17 @@
+depth = 100000;
+weretimer = 0;
+state = 999;
+hintscreen = 0;
+werewire1 = 0;
+werewire2 = 0;
+werewire3 = 0;
+werewire4 = 0;
+werewire5 = 0;
+werewire6 = 0;
+werespawn = 0;
+werewire7 = 0;
+spawned = 0;
+hat = -1;
+hatinit = 0;
+hatflyaway = 0;
+spawn7 = false;

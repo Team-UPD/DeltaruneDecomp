@@ -1,0 +1,113 @@
+{
+  "spriteId": {
+    "name": "_decompiled_bg_dw_cyber_lightbulb_tileset",
+    "path": "sprites/_decompiled_bg_dw_cyber_lightbulb_tileset/_decompiled_bg_dw_cyber_lightbulb_tileset.yy"
+  },
+  "tileWidth": 80,
+  "tileHeight": 80,
+  "tilexoff": 0,
+  "tileyoff": 0,
+  "tilehsep": 0,
+  "tilevsep": 0,
+  "out_tilehborder": 2,
+  "out_tilevborder": 2,
+  "spriteNoExport": true,
+  "textureGroupId": {
+    "name": "default",
+    "path": "texturegroups/default"
+  },
+  "out_columns": 3,
+  "tile_count": 7,
+  "autoTileSets": [],
+  "tileAnimationFrames": [
+    {
+      "frames": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        1,
+        2
+      ],
+      "resourceType": "GMTileAnimation",
+      "resourceVersion": "1.0",
+      "name": "animation_1"
+    }
+  ],
+  "tileAnimationSpeed": -9223372036854775808,
+  "tileAnimation": {
+    "frameData": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      4,
+      5,
+      6,
+      1,
+      2,
+      3,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6
+    ],
+    "SerialiseFrameCount": 8
+  },
+  "macroPageTiles": {
+    "SerialiseWidth": 0,
+    "SerialiseHeight": 0,
+    "TileSerialiseData": []
+  },
+  "parent": {
+    "name": "Tile Sets",
+    "path": "folders/Tile Sets.yy"
+  },
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "bg_dw_cyber_lightbulb_tileset"
+}

@@ -1,0 +1,10 @@
+lifetime = 0;
+fadeondeath = false;
+destroyoffscreen = true;
+autodepth = false;
+rotation = 0;
+image_speed = 1;
+random_image = false;
+init = 0;
+height = 0;
+psuedo_gravity = 0;

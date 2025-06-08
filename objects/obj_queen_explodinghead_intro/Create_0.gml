@@ -1,0 +1,13 @@
+image_speed = 0;
+image_alpha = 0.5;
+timer = 0;
+length = 70;
+place = 0;
+place2 = 0;
+buffer = 0;
+damage = 0;
+target = 0;
+laugh = 0;
+first = 0;
+bufferattack = 0;
+ultimate = 0;

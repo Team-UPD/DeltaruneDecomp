@@ -1,0 +1,11 @@
+y = o_boxingcontroller.y - 169;
+f = 2;
+x1 = x;
+x2 = x;
+y1 = y - 3;
+y2 = y + 3;
+timer = 0;
+state = 0;
+rep = 1;
+image_alpha = 1.4;
+depth = o_boxingcontroller.depth - 4;

@@ -1,0 +1,10 @@
+xpos = 0;
+xoffset = 0;
+looping_bg = instance_create(0, 0, obj_looping_tiled_area);
+looping_bg.sprite_index = sprite_index;
+looping_bg.width = 720;
+looping_bg.depth = depth;
+looping_bg.x_scale = 1;
+looping_bg.y_scale = 1;
+auto_scroll_start = false;
+auto_scroll_stop = false;

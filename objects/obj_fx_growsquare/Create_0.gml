@@ -1,0 +1,9 @@
+color = c_red;
+active = 0;
+timer = 0;
+alarm[0] = 1;
+target = -1;
+growspeed = 4;
+alpha = 1.5;
+fadespeed = 0.1;
+growth = 0;

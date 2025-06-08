@@ -1,0 +1,10 @@
+draw_set_color(c_red);
+scr_84_set_draw_font("main");
+draw_text(x, y - 25, string_hash_to_newline("U- I+ Difficulty: " + string(global.tempflag[27])));
+draw_set_color(c_white);
+scr_84_set_draw_font("mainbig");
+draw_text(x, y, string_hash_to_newline("1 , 2 , 3 Enable/Disable Enemy.#Spacebar - Reset Room."));
+draw_set_color(c_aqua);
+draw_text(0, y, string_hash_to_newline(global.turntimer));
+scr_84_set_draw_font("main");
+draw_text(0, y + 30, string_hash_to_newline("4 - neverending@turn"));

@@ -1,0 +1,16 @@
+targetString = "D";
+enteredString = "";
+textImage = 0;
+pressed = 0;
+down = 0;
+pressedBuffer = 0;
+init = 0;
+image_speed = 0;
+depth = 900000 - y;
+controller = 1129;
+pressable = 1;
+actorpress = false;
+bouncecon = 0;
+bouncetimer = 0;
+drawY = 0;
+won = false;

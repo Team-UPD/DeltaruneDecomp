@@ -1,0 +1,12 @@
+intensity = 2;
+timer = -30;
+effectPause = 15;
+poweruptime = 90;
+parent = -4;
+effecttimer = 0;
+init = 0;
+pivotx = -999;
+pivoty = -999;
+flashtimer = 0;
+flashspeed = 30;
+thrash = obj_thrashmachine;

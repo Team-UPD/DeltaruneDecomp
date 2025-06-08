@@ -1,0 +1,11 @@
+image_xscale = 2;
+image_yscale = 2;
+image_speed = 0;
+con = 0;
+dist = 99999;
+speed1 = 0;
+marker = 0;
+topsprite = 0;
+topxoff = 0;
+topyoff = 0;
+flyoff = 0;

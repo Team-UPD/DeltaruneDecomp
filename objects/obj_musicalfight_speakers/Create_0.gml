@@ -1,0 +1,12 @@
+image_xscale = 0;
+image_yscale = 0;
+state = 0;
+timer = 0;
+tempo = 15;
+beatcount = 0;
+maxbeats = 7;
+scale = 1;
+bulletsperbeat = 4;
+baseangle = 0;
+damage = -1;
+target = -1;

@@ -1,0 +1,10 @@
+mousecreate = 0;
+gentimer = 20;
+timer = 0;
+image_xscale = 2;
+image_yscale = 2;
+depth = 860000;
+doorstate = 0;
+desIndex = 0;
+image_speed = 0;
+image_index = 0;

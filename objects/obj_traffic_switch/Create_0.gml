@@ -1,0 +1,18 @@
+myinteract = 0;
+image_speed = 0;
+scr_depth();
+fadeout = 0;
+fadein = 0;
+con = 0;
+active = 0;
+timer = default_time * timefactor;
+boss = 0;
+onroad = false;
+fadestate = 0;
+pressbuffer = 0;
+init = 0;
+allcount = 0;
+clear_traffic = false;
+deleteCars = 0;
+ralsei = 0;
+susie = 0;
