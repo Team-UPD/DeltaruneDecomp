@@ -18,6 +18,8 @@ Branch | Description
 Discord: ``shatter9652``<br>
 Bluesky: ``shatterstar9652``
 
+Here is our public [Discord Server](https://discord.gg/gRTZ7JPZxY) also!
+
 (If you represent Toby Fox, or any assets in this repository and need to contact me, please do so at shatterstar9652@gmail.com)
 
 ## How do I use this?
