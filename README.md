@@ -39,4 +39,4 @@ Bluesky: ``shatterstar9652``
 
 ## FAQ
 - Q: Why aren't Chapter 3 & 4 Uploaded?
-- A: We are personally waiting 2 weeks after the release of Ch3 and Ch4 for the purpose of not spoiling the game.
+- A: Chapter's 3 and 4 have SEVERAL bugs with the decompiler, so I'm manually fixing all of that at the moment!
