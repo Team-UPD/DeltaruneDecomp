@@ -39,4 +39,7 @@ Bluesky: ``shatterstar9652``
 
 ## FAQ
 - Q: Why aren't Chapter 3 & 4 Uploaded?
-- A: Chapter's 3 and 4 have SEVERAL bugs with the decompiler, so I'm manually fixing all of that at the moment!
+- A: Chapter's 3 and 4 have SEVERAL bugs with the decompiler, so I'm manually fixing all of that at the moment! Chapter's 1 and 2 should have no issues at the moment, so feel free to mod those!
+ 
+- Q: Why do Chapters 1 and 2 have assets (audio, images, etc.) but not Chapters past 1 and 2?
+- A: Chapters 1 and 2 are both free via the demo, whilist Chapters 3 and 4 cost money. We do not condone piracy.
