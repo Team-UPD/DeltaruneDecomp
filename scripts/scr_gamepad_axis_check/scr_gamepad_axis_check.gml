@@ -1,4 +1,4 @@
-function scr_gamepad_axis_check(arg0, arg1)
+function scr_gamepad_axis_check(arg0, arg1) // checks connected controllers axis_value
 {
 	axis_value = 0.4;
 	__returnvalue = 0;

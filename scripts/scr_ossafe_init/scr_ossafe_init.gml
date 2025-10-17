@@ -1,8 +1,13 @@
-function scr_ossafe_init()
+function scr_ossafe_init() // pretty self explanitory
+/*
+SWITCH_OZ = Switch 2(maybe?)
+PS5... = PS5??????
+PS5_TEST = PS5 Devkit
+*/
 {
 }
 
-function scr_get_supported_demo_titles()
+function scr_get_supported_demo_titles() // demo
 {
 	var titles = [];
 	if (scr_is_switch_os())
@@ -12,7 +17,7 @@ function scr_get_supported_demo_titles()
 	return titles;
 }
 
-function scr_get_supported_full_titles()
+function scr_get_supported_full_titles() // full game
 {
 	var titles = [];
 	if (os_get_config() == "SWITCH_OZ")
@@ -22,20 +27,20 @@ function scr_get_supported_full_titles()
 	return titles;
 }
 
-function scr_switch_title(arg0, arg1) constructor
+function scr_switch_title(arg0, arg1) constructor // switch startup args
 {
 	app_id = arg0;
 	save_data_file = arg1;
 }
 
-function scr_ps4_title(arg0, arg1, arg2) constructor
+function scr_ps4_title(arg0, arg1, arg2) constructor // playstation startup args
 {
 	title_id = arg0;
 	fingerprint = arg1;
 	save_data_file = arg2;
 }
 
-function scr_save_data_file(arg0, arg1) constructor
+function scr_save_data_file(arg0, arg1) constructor // savefile args
 {
 	slottitle = arg0;
 	filename = arg1;
